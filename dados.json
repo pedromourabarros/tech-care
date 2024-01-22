@@ -1,0 +1,28 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "admin",
+            "email": "admin@fiap.com",
+            "senha": "1234"
+        },
+        {
+            "id": 2,
+            "nome": "usuario1",
+            "email": "usuario1@fiap.com",
+            "senha": "senha123"
+        },
+        {
+            "id": 3,
+            "nome": "usuario2",
+            "email": "usuario2@fiap.com",
+            "senha": "senha456"
+        },
+        {
+            "id": 2,
+            "nome": "usuario3",
+            "email": "usuario3@fiap.com",
+            "senha": "senha789"
+        }
+    ]
+}
